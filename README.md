@@ -7,7 +7,6 @@
   Data Platform
 </h1>
 
-==============================
 Cosmos HackAtom Entry
 Realtime data apps for emmission data from ESA satellites
 
