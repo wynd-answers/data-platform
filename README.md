@@ -1,5 +1,12 @@
-h3wynd
-==============================
+<p align="center">
+  <a href="https://wyndex.io/">
+    <img alt="WYND" src="http://i.epvpimg.com/fjQacab.png" width="250" />
+  </a>
+</p>
+<h1 align="center">
+  Data Platform
+</h1>
+
 Cosmos HackAtom Entry
 Realtime data apps for emmission data from ESA satellites
 
